@@ -3,11 +3,11 @@
 <block
 	name="Warping"
 	id="nl.cowlumbus.warping"
-	author="Paul Houx"
+	author="Ahbee"
 	license="GPL, Commercial"
 	summary="Warping library for Cinder"
-	url="https://github.com/paulhoux/Cinder-Warping"
-	git="git://github.com/paulhoux/Cinder-Warping.git"
+	url="https://github.com/Ahbee/Cinder-Warping.git"
+	git="git://github.com/Ahbee/Cinder-Warping.git"
 	>
 	<requires>org.libcinder.opencv</requires>
 	<supports os="macosx" />
