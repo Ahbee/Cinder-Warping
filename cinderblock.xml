@@ -13,6 +13,7 @@
 	<supports os="macosx" />
 	<supports os="msw" />
 	<includePath>include</includePath>
+    <header>include/garbage.h</header>
 	<header>include/Warp.h</header>
 	<header>include/WarpBilinear.h</header>
 	<header>include/WarpPerspective.h</header>
@@ -21,6 +22,7 @@
 	<source>src/WarpBilinear.cpp</source>
 	<source>src/WarpPerspective.cpp</source>
 	<source>src/WarpPerspectiveBilinear.cpp</source>
+    <source>src/garbage.cpp</source>
 </block>
 <template>templates/Basic Warping/template.xml</template>
 </cinder>
