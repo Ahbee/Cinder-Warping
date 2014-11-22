@@ -53,6 +53,7 @@ Warp::~Warp(void)
 {
 }
 
+// draws warp
 void Warp::draw(const gl::Texture &texture)
 {
 	draw( texture, texture.getBounds(), Rectf( getBounds() ) );
