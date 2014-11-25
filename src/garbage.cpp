@@ -8,3 +8,7 @@ public:
 
 	/* data */
 };
+
+
+
+done some stuff to garbage
